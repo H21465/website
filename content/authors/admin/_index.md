@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Hayato Yamamoto
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Hayato
+last_name: Yamamoto
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🧏
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,83 +23,99 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Master's Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Tsukuba University of Technology
+    url: https://www.tsukuba-tech.ac.jp/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'a243103@a.tsukuba-tech.ac.jp'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://x.com/prohy142648
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://github.com/h21465
+  # - icon: brands/linkedin
+    # url: https://www.linkedin.com/in/alexjohnsonai/
+  # - icon: academicons/google-scholar
+    # url: https://scholar.google.com/citations?user=alexjohnson
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0000-8849-3484
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Music Accessibility
+  - Vibrotactile Feedback
+  - Singing Timing Support
+  - Mora-Level Anchor Detection
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: Master of Engineering
+    institution: Tsukuba University of Technology
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2024-04-01
+    date_end: ''
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+      Major: Industrial Technology
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+  - area: Bachelor of Enginnering
+    institution: Tsukuba University of Technology
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+    date_start: 2020-04-01
+    date_end: 2024-03-31
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    icon: ''
-    date_start: 2020-01-01
+  - position: Teaching Assistant, Software Enginnering I and Signal Processing courses (lectures and exercises).
+    company_name: Tsukuba University of Technology
+    company_url: 'https://www.tsukuba-tech.ac.jp/'
+    date_start: 2025-10-01
     date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+
+  - position: Teaching Assistant, Software Engineering II (Lecture and Exercise).
+    company_name: Tsukuba University of Technology
+    company_url: 'https://www.tsukuba-tech.ac.jp/'
+    date_start: 2025-04-01
+    date_end: 2025-09-30
+
+  - position: Teaching Assistant, Software Enginnering I and Signal Processing courses (lectures and exercises).
+    company_name: Tsukuba University of Technology
+    company_url: 'https://www.tsukuba-tech.ac.jp/'
+    date_start: 2024-10-01
+    date_end: 2025-03-31
+
+  - position: Mentor, Agile Mini Camp.
+    company_name: Tsukuba University of Technology
+    company_url: 'https://www.tsukuba-tech.ac.jp/'
+    date_start: 2024-09-01
+    date_end: 2024-09-30
+
+  - position: Teaching Assistant, Software Engineering II (Lecture and Exercise).
+    company_name: Tsukuba University of Technology
+    company_url: 'https://www.tsukuba-tech.ac.jp/'
+    date_start: 2024-04-01
+    date_end: 2024-09-30
+
+  - position: Student Assistant, Software Enginnering II.
+    company_name: Tsukuba University of Technology
+    company_url: 'https://www.tsukuba-tech.ac.jp/'
+    date_start: 2023-04-01
+    date_end: 2023-09-30
+
+  - position: Mentor, Tokyo Digital Society Human Resource Development.
+    company_name: Tokyo Metropolitan Government "Digital Human Resources for Society Development Program"
+    company_url: 'https://www.5gconsortium.metro.tokyo.lg.jp/news/20230608-1100/'
+    date_start: 2023-01-01
+    date_end: 2023-03-31
+
+  - position: Developer, Career Support Center Reservation System
+    company_name: Tsukuba University of Technology
+    company_url: 'https://tsukutech-social.net/site/schedule_reservation/'
+    date_start: 2022-11-01
+    date_end: 2023-12-31
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -110,14 +126,17 @@ skills:
         description: ''
         percent: 95
         icon: code-bracket
+
       - name: Machine Learning
         description: ''
         percent: 100
         icon: chart-bar
+
       - name: Cloud Computing (AWS/GCP)
         description: ''
         percent: 85
         icon: cloud
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -136,9 +155,20 @@ skills:
         icon: book-open
 
 languages:
-  - name: English
+  - name: Japanese
     percent: 100
-  - name: Spanish
+
+  - name: JSL
+    percent: 100
+
+  - name: English
+    percent: 75
+
+  - name: ASL
+    percent: 50
+
+
+  - name: IS
     percent: 50
 
 # Awards.
@@ -146,27 +176,30 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: JSAI Annual Conference Student Incentive Award
+    url: 'https://www.ai-gakkai.or.jp/jsai2025/'
+    date: 2025-11-01
+    awarder: JSAI
     icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+
+  - title: Sasakawa Scientific Research Grant
+    url: 'https://www.ipsj.or.jp/award/taikaigakusei.html'
+    date: 2025-04-01
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      1,000,000 yen grant for research in vibrotactile feedback systems that support accurate singing timing for Deaf and Hard-of-Hearing individuals.
+
+  - title: Student Encouragement Award at the 87 th National Convention of IPSJ in Osaka, Japan
+    url: 'https://www.ipsj.or.jp/award/taikaigakusei.html'
+    date: 2025-03-24
+    awarder: IPSJ
+    icon: hero/trophy
+
+  - title: Grand Prize at the Tokyo Digital Society Human Resource Development Program
+    url: 'https://www.5gconsortium.metro.tokyo.lg.jp/'
+    date: 2023-02-19
+    awarder: Tokyo Metropolitan Government "Digital Human Resources for Society Development Program"
+    icon: hero/trophy
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am a Deaf researcher specializing in music accessiility and human-computer interaction. My research forcuses on developing vibrotactile feedback systems that support accurate singing timing for Deaf and Hard-of-Hearing individuals. By integrating signal processing, machine learning, and embedded systems design, I aim to achieve precise synchronization between audio and vibrotactile stimuli. In addition, I explore **personalized optimization** of vibrotactile timing to accommodate individual perceptual differences. Through this work, I strive to realize **music accessibility that is understandable and meaningful** for Deaf and Hard-of-Hearing people—especially those inspired to sing.
